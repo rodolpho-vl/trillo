@@ -23,7 +23,7 @@ This project was created by Jonas Schmedtmann for his online course [Advanced CS
 
 ### Links
 
-- Live Site URL: [Trillo](https://natours-rodolphovl.netlify.app)
+- Live Site URL: [Trillo](https://trillo-rodolphovl.netlify.app)
 
 ## My process
 
